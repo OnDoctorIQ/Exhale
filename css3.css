@@ -1,0 +1,31 @@
+@import url('https://fonts.cdnfonts.com/css/mileast');
+
+body {
+	font-family: 'Mileast', sans-serif;
+	margin:0px;
+	}
+
+header{background-color:#698b6b;
+width:101%;}
+
+.gump {width:100%;}
+
+form	{ margin-top:-8%;}
+
+.button {width:25%;
+		background-color:transparent;
+		border: none;}
+		
+p{margin-left:10%;
+ font-size:60px;
+ margin-top:1%;
+  margin-bottom:1%;}
+  
+ .p2{margin-left:2%;
+ font-size:80px;
+ margin-top:1%;
+  margin-bottom:1%;}
+ 
+ h2 {font-size:130px;
+	padding:3%;
+	color:white;}
